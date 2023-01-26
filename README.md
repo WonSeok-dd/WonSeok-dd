@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonSeok-dd&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⚙️ solved.ac
+### 🦫 solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cluejws)](https://solved.ac/cluejws)
